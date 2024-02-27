@@ -25,6 +25,8 @@ int main()
     int nPanjang, nLebar, nLuas;
     cout << "Masukan Panjangnya=";
     cin >> nPanjang;
+    cout << "Masukan Lebarnya=";
+    cin >> nLebar;
     system("pause");
 
     
