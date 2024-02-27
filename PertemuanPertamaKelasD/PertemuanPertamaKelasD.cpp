@@ -23,7 +23,8 @@ int main()
     cout << "Luasnya Adalah= " << nLuas << endl;
 
     int nPanjang, nLebar, nLuas;
-
+    cout << "Masukan Panjangnya=";
+    cin >> nPanjang;
     system("pause");
 
     
